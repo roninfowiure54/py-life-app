@@ -10,3 +10,6 @@ Run: `python src/game.py`
 
 ---
 *Released under the MIT License by AlexanderAM1231.*
+
+---
+*Released under the MIT License by jocck96.*
