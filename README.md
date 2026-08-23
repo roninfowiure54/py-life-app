@@ -4,3 +4,6 @@ Run: `python src/game.py`
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by alibasit-lgtm4.*
